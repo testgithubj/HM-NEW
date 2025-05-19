@@ -17,4 +17,7 @@ npm-debug.log
 yarn-error.log
 /.fleet
 /.idea
-/.vscode
+/.vscode/vendor
+/node_modules
+.env
+/storage/*
